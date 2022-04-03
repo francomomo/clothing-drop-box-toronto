@@ -19,3 +19,4 @@ The `outputs` folder contains the final paper and its markdown.
 This project is still constantly being updated and more scripts will be added to the folders.
 
 You can download the data and learn more from [their website](https://open.toronto.ca/dataset/clothing-drop-box-locations/).
+# covid_19_toronto
